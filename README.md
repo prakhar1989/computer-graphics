@@ -16,6 +16,6 @@ Raytra is a raytracer written in C++
 ### Run
 ```
 $ mkdir build && cd build
-$ cmake . && make
+$ cmake .. && make
 $ raytra ../scenes/sample.scn image.exr
 ```
